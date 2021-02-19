@@ -1,0 +1,10 @@
+body{
+  background-image: url("images/vitraliu-fundal.png");
+}
+h1{
+  font-family: 'Ballet', cursive;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 600;
+  padding-top: 150px;
+}
