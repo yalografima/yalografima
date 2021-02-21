@@ -2,7 +2,9 @@ body{
   background-image: url("images/vitraliu-fundal.png");
 }
 h1{
-  font-family: 'Ballet', cursive;
+ 
+  font-family: 'Parisienne', cursive;
+ 
   text-align: center;
   font-size: 100px;
   font-weight: 600;
@@ -18,8 +20,8 @@ span:hover {
 }
 
 @keyframes letterAnim{
-  from {font-size:7rem;}
-  to {font-size:10rem;}
+  0% {font-size:7rem; }
+  100% {font-size:10rem;}
 }
 
 /**********************************CLASSES*****************************/
