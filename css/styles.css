@@ -2,21 +2,8 @@ body{
   margin: 0;
   padding: 0;
   background: url(/images/vitraliu-fundal2.png) no-repeat scroll;
-  background-size: cover;
+  background-size: 200vh;
 }
-h1{
-  font-family: 'Parisienne', cursive;
-  padding-top: 15rem;
-  text-align: center;
-  font-weight: 600;
-  font-size: 0;
-  color: #0e153a;
-  
-}
-span {
-  font-size: 7rem;
-}
-
 span:hover {
   animation: letterAnim 0.3s forwards; 
 }
@@ -30,12 +17,17 @@ span:hover {
 
 .litere {
   text-align: center;
+  font-family: 'Parisienne', cursive;
+  padding-top: 20vh;
+  text-align: center;
+  font-size: 5vw;
+  color: #0e153a;
 }
 .descriere{
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 3vw;
   font-weight: bolder;
-  padding-left: 17rem;
-  padding-bottom: 10rem;
+  padding-left: 20vw;
+  padding-bottom: 15vh;
   margin: 0;
 }
